@@ -1,0 +1,12 @@
+export const NEW_POLICY_REQUEST = "NEW_POLICY_REQUEST";
+export const NEW_POLICY_SUCCESS = "NEW_POLICY_SUCCESS";
+export const NEW_POLICY_FAIL = "NEW_POLICY_FAIL";
+export const NEW_POLICY_RESET = "NEW_POLICY_RESET";
+
+//
+// export const NEW_CHAT_REQUEST = "NEW_CHAT_REQUEST";
+// export const NEW_CHAT_SUCCESS = "NEW_CHAT_SUCCESS";
+// export const NEW_CHAT_RESET = "NEW_CHAT_RESET";
+// export const NEW_CHAT_FAIL = "NEW_CHAT_FAIL";
+
+export const CLEAR_ERRORS = "CLEAR_ERRORS";
